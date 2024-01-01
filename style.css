@@ -1,0 +1,40 @@
+.Titulo{
+text-align: center;
+background-color: antiquewhite;
+}
+
+.Botones{
+text-align: center;
+background-color: greenyellow;
+}
+
+.Texto{
+background-color: orange
+}
+
+
+.Final{
+text-align: center;
+background-color: yellow;
+margin: auto;
+width: 200px;
+}
+
+.div2{
+    background-color: blue;
+}
+
+.span1{
+    font-weight: bold;
+
+}
+
+.div1{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+.divgrande{
+    text-align: center;
+}
